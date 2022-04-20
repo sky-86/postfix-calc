@@ -1,0 +1,7 @@
+A simple calculator that converts infix notation to postfix
+
+1. take a txt doc with infix expression /s
+
+2. convert
+
+3. output to another txt doc
